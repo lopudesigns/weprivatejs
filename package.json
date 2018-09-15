@@ -1,0 +1,21 @@
+{
+  "name": "weprivatejs",
+  "version": "1.0.0",
+  "description": "A server based process to act as an api endpoint for running private operations on public initiation",
+  "main": "index.js",
+  "scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"push" : "git add . ; git commit -m 'ready' ; git push origin dev",
+		"pull" : "git pull origin dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopudesigns/weprivatejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopudesigns/weprivatejs/issues"
+  },
+  "homepage": "https://github.com/lopudesigns/weprivatejs#readme"
+}
